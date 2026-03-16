@@ -51,12 +51,17 @@ CIRCUIT DIAGRAM:
 
 a.   KVL:
 ![alt text](<WhatsApp Image 2026-03-14 at 4.25.45 PM-1.jpeg>)
+
+<img width="1920" height="1080" alt="Screenshot 2026-03-01 183443" src="https://github.com/user-attachments/assets/22eb3709-901f-4632-b648-bf930c6014de" />
  
 
 
 b.  KCL:
  
  ![alt text](<WhatsApp Image 2026-03-16 at 10.40.04 AM.jpeg>)
+
+ <img width="1920" height="1080" alt="Screenshot 2026-03-01 185551" src="https://github.com/user-attachments/assets/94663bdf-9734-48e3-9404-5a11465f4b91" />
+
 
 Calculation:
 
